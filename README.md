@@ -13,3 +13,6 @@
 - **Counter**  
   [Question](https://datayi.cn/w/xogkVqBo)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d2_counter.js)
+- **Counter II**  
+  [Question](https://datayi.cn/w/xRxVYOXo)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d2_counter-ii.js)
