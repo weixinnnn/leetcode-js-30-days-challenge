@@ -9,13 +9,13 @@
 
 - **Create Hello World function**  
   [Question](https://datayi.cn/w/QPDw0kJR)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d1_create-hello-world-function.js)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d1_create-hello-world-function.ts)
 - **Counter**  
   [Question](https://datayi.cn/w/xogkVqBo)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d2_counter.js)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d2_counter.ts)
 - **Counter II**  
   [Question](https://datayi.cn/w/xRxVYOXo)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d2_counter-ii.js)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d2_counter-ii.ts)
 - **Basic Array Transforms**  
   [Question](https://datayi.cn/w/noqbNOv9)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d3_basic-array-transform.ts)

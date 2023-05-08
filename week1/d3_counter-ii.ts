@@ -9,11 +9,7 @@ The three functions are:
 - reset() sets the current value to init and then returns it.
 */
 
-/**
- * @param {integer} init Initial value of counter
- * @return { increment: Function, decrement: Function, reset: Function }
- */
-const createCounter = (init) => {
+const createCounter = (init: number) => {
   let current = init;
   return {
     increment: () => ++current,

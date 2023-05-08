@@ -7,8 +7,4 @@ Constraints:
 At most 1000 calls to counter() will be made
 */
 
-/**
- * @param {number} n - Initial value of counter.
- * @return {Function} A function that returns the current value of the counter and increments it by 1.
- */
-const createCounter = (n) => () => n++;
+const createCounter = (n: number) => () => n++;
