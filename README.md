@@ -19,3 +19,6 @@
 - **Basic Array Transforms**  
   [Question](https://datayi.cn/w/noqbNOv9)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d3_basic-array-transform.ts)
+- **Filter Elements from Array**  
+  [Question](https://datayi.cn/w/a9a5VZr9)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d3_filter-elements-from-array.ts)
