@@ -25,3 +25,6 @@
 - **Array Reduce Transformation**  
   [Question](https://datayi.cn/w/nPN45jD9)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d6_array-reduce-transformation.ts)
+- **Function Composition**  
+  [Question](https://datayi.cn/w/4PY7wZM9)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d7_function-composition.ts)
