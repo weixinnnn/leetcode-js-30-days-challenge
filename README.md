@@ -9,22 +9,28 @@
 
 - **Create Hello World function**  
   [Question](https://datayi.cn/w/QPDw0kJR)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d1_create-hello-world-function.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week1/d1_create-hello-world-function.ts)
 - **Counter**  
   [Question](https://datayi.cn/w/xogkVqBo)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d2_counter.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week1/d2_counter.ts)
 - **Counter II**  
   [Question](https://datayi.cn/w/xRxVYOXo)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d3_counter-ii.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week1/d3_counter-ii.ts)
 - **Basic Array Transforms**  
   [Question](https://datayi.cn/w/noqbNOv9)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d4_basic-array-transform.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week1/d4_basic-array-transform.ts)
 - **Filter Elements from Array**  
   [Question](https://datayi.cn/w/a9a5VZr9)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d5_filter-elements-from-array.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week1/d5_filter-elements-from-array.ts)
 - **Array Reduce Transformation**  
   [Question](https://datayi.cn/w/nPN45jD9)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d6_array-reduce-transformation.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week1/d6_array-reduce-transformation.ts)
 - **Function Composition**  
   [Question](https://datayi.cn/w/4PY7wZM9)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/d7_function-composition.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week1/d7_function-composition.ts)
+
+## Week 1
+
+- **Allow One Function Call**  
+  [Question](https://datayi.cn/w/a9By01Oo)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d8_allow-one-function-call.ts)
