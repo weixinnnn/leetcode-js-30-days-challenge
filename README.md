@@ -29,8 +29,11 @@
   [Question](https://datayi.cn/w/4PY7wZM9)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week1/d7_function-composition.ts)
 
-## Week 1
+## Week 2
 
 - **Allow One Function Call**  
   [Question](https://datayi.cn/w/a9By01Oo)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d8_allow-one-function-call.ts)
+- **Memoize**  
+  [Question](https://datayi.cn/w/nRbADVd9)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d9_memoize.ts)
