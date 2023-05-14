@@ -37,3 +37,6 @@
 - **Memoize**  
   [Question](https://datayi.cn/w/nRbADVd9)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d9_memoize.ts)
+- **Curry**  
+  [Question](https://datayi.cn/w/QRekxgjo)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d10_curry.ts)
