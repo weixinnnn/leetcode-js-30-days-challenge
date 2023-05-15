@@ -40,3 +40,6 @@
 - **Curry**  
   [Question](https://datayi.cn/w/QRekxgjo)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d10_curry.ts)
+- **Sleep**  
+  [Question](https://datayi.cn/w/5Rp2Wmzo)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d11_sleep.ts)
