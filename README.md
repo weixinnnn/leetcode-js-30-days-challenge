@@ -43,3 +43,6 @@
 - **Sleep**  
   [Question](https://datayi.cn/w/5Rp2Wmzo)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d11_sleep.ts)
+- **Promise Time Limit**  
+  [Question](https://datayi.cn/w/nombN5Z9)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d12_promise-time-limit.ts)
