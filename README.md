@@ -46,3 +46,6 @@
 - **Promise Time Limit**  
   [Question](https://datayi.cn/w/nombN5Z9)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d12_promise-time-limit.ts)
+- **Promise Pool**  
+  [Question](https://datayi.cn/w/3oLQwOg9)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d13_promise-pool.ts)
