@@ -52,3 +52,9 @@
 - **Cache With Time Limit**  
   [Question](https://datayi.cn/w/1P64Enz9)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d14_cache-with-time-limit.ts)
+
+## Week 3
+
+- **Debounce**  
+  [Question](https://datayi.cn/w/AovN2Ojo)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d15_debounce.ts)
