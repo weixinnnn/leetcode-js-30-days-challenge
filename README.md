@@ -49,3 +49,6 @@
 - **Promise Pool**  
   [Question](https://datayi.cn/w/3oLQwOg9)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d13_promise-pool.ts)
+- **Cache With Time Limit**  
+  [Question](https://datayi.cn/w/1P64Enz9)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week2/d14_cache-with-time-limit.ts)
