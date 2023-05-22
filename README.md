@@ -61,3 +61,6 @@
 - **Throttle**  
   [Question](https://datayi.cn/w/bR7jOnr9)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d16_throttle.ts)
+- **JSON Deep Equal**  
+  [Question](https://datayi.cn/w/4PKqJ0z9)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d17_json-deep-equal.ts)
