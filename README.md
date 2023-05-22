@@ -58,3 +58,6 @@
 - **Debounce**  
   [Question](https://datayi.cn/w/AovN2Ojo)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d15_debounce.ts)
+- **Throttle**  
+  [Question](https://datayi.cn/w/bR7jOnr9)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d16_throttle.ts)
