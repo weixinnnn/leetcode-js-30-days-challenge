@@ -64,6 +64,9 @@
 - **JSON Deep Equal**  
   [Question](https://datayi.cn/w/4PKqJ0z9)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d17_json-deep-equal.ts)
-- **Convert object to JSON string**  
+- **Convert Object to JSON String**  
   [Question](https://datayi.cn/w/GPnkNmWo)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d18_object_to_json_string.ts)
+- **Array of Objects to Matrix**  
+  [Question](https://datayi.cn/w/EoZk0Zy9)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d19_array_of_objects_to_matrix.ts)
