@@ -70,3 +70,6 @@
 - **Array of Objects to Matrix**  
   [Question](https://datayi.cn/w/EoZk0Zy9)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d19_array_of_objects_to_matrix.ts)
+- **Differences Between Two Objects**  
+  [Question](https://datayi.cn/w/LPdzgyA9)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d20_differences_between_two_objects.ts)
