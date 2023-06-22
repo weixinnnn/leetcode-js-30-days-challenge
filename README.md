@@ -85,3 +85,6 @@
 - **Array Prototype Last**  
   [Question](https://datayi.cn/w/GR434na9)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d23_array_prototype_last.ts)
+- **Array Group By**  
+  [Question](https://datayi.cn/w/WoM5GZKo)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d24_array_group_by.ts)
