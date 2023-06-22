@@ -76,3 +76,9 @@
 - **Chunk Array**  
   [Question](https://datayi.cn/w/YoXvrdGR)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d21_chunk_array.ts)
+
+## Week 4
+
+- **Debounce**  
+  [Question](https://datayi.cn/w/rREX6Gm9)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d22_flatten_deeply_nested_array.ts)
