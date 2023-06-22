@@ -79,6 +79,9 @@
 
 ## Week 4
 
-- **Debounce**  
+- **Flatten Deeply Nested Array**  
   [Question](https://datayi.cn/w/rREX6Gm9)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d22_flatten_deeply_nested_array.ts)
+- **Array Prototype Last**  
+  [Question](https://datayi.cn/w/GR434na9)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d23_array_prototype_last.ts)
