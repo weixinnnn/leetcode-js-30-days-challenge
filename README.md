@@ -91,3 +91,6 @@
 - **Check If Object Instance Of Class**  
   [Question](https://datayi.cn/w/qPkbxBwR)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d25_check-if-onject-instance-of-class.ts)
+- **Call Function With Custom Context**  
+  [Question](https://datayi.cn/w/39lbqjpP)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d26_call-function-with-custom-context.ts)
