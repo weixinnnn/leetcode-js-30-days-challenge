@@ -11,12 +11,14 @@ Output: {
 }
 */
 
-interface GroupedArray<T> {
-  [key: string]: T[];
+declare global {
+  interface Array<T> {
+    groupBy(fn: (item: T) => string): Record<string, T[]>;
+  }
 }
 
-interface Array<T> {
-  groupBy(fn: (item: T) => string): GroupedArray<T>;
+interface GroupedArray<T> {
+  [key: string]: T[];
 }
 
 Array.prototype.groupBy = function <T>(
