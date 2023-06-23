@@ -3,5 +3,5 @@ interface Array<T> {
 }
 
 Array.prototype.last = function <T>(): T | -1 {
-  return this.at(-1) ?? -1;
+  return this.length ? this.at(-1) : -1;
 };
