@@ -66,28 +66,28 @@
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d17_json-deep-equal.ts)
 - **Convert Object to JSON String**  
   [Question](https://datayi.cn/w/GPnkNmWo)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d18_object_to_json_string.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d18_object-to-json-string.ts)
 - **Array of Objects to Matrix**  
   [Question](https://datayi.cn/w/EoZk0Zy9)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d19_array_of_objects_to_matrix.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d19_array-of-objects-to-matrix.ts)
 - **Differences Between Two Objects**  
   [Question](https://datayi.cn/w/LPdzgyA9)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d20_differences_between_two_objects.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d20_differences-between-two-objects.ts)
 - **Chunk Array**  
   [Question](https://datayi.cn/w/YoXvrdGR)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d21_chunk_array.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week3/d21_chunk-array.ts)
 
 ## Week 4
 
 - **Flatten Deeply Nested Array**  
   [Question](https://datayi.cn/w/rREX6Gm9)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d22_flatten_deeply_nested_array.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d22_flatten-deeply-nested-array.ts)
 - **Array Prototype Last**  
   [Question](https://datayi.cn/w/GR434na9)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d23_array_prototype_last.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d23_array-prototype-last.ts)
 - **Array Group By**  
   [Question](https://datayi.cn/w/WoM5GZKo)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d24_array_group_by.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d24_array-group-by.ts)
 - **Check If Object Instance Of Class**  
   [Question](https://datayi.cn/w/qPkbxBwR)  
-  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d25_check_if_onject_instance_of_class.ts)
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d25_check-if-onject-instance-of-class.ts)
