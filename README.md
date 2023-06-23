@@ -88,3 +88,6 @@
 - **Array Group By**  
   [Question](https://datayi.cn/w/WoM5GZKo)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d24_array_group_by.ts)
+- **Check If Object Instance Of Class**  
+  [Question](https://datayi.cn/w/qPkbxBwR)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d25_check_if_onject_instance_of_class.ts)
