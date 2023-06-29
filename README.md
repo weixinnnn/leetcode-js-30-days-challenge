@@ -94,3 +94,6 @@
 - **Call Function With Custom Context**  
   [Question](https://datayi.cn/w/39lbqjpP)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d26_call-function-with-custom-context.ts)
+- **Event Emitter**  
+  [Question](https://datayi.cn/w/lPQDyGjR)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d27_event-emitter.ts)
