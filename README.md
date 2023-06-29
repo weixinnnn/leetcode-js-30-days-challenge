@@ -97,3 +97,6 @@
 - **Event Emitter**  
   [Question](https://datayi.cn/w/lPQDyGjR)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d27_event-emitter.ts)
+- **Array Wrapper**  
+  [Question](https://datayi.cn/w/1R3l3Q0P)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d28_array-wrapper.ts)
