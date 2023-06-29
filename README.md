@@ -100,3 +100,9 @@
 - **Array Wrapper**  
   [Question](https://datayi.cn/w/1R3l3Q0P)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week4/d28_array-wrapper.ts)
+
+## Week 5
+
+- **Generate Fibonacci Sequence**  
+  [Question](https://datayi.cn/w/xo040MEo)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week5/d29_generate_fibonacci_sequence.ts)
