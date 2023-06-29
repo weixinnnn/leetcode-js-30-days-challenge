@@ -106,3 +106,6 @@
 - **Generate Fibonacci Sequence**  
   [Question](https://datayi.cn/w/xo040MEo)  
   [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week5/d29_generate_fibonacci_sequence.ts)
+- **Nested Array Generator**  
+  [Question](https://datayi.cn/w/JoOOVj1o)  
+  [Solution](https://github.com/weixinnnn/leetcode-js-30-days-challenge/blob/main/week5/d30_nested-array-generator.ts)
